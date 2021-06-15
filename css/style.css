@@ -58,7 +58,7 @@ a {
 
 #about {
     padding: 20px;
-    width: 70px;
+    width: 12%;
     font-size: 30px;
     color:rgba(8, 27, 70);
     text-align: center;
@@ -82,7 +82,7 @@ p {
 
 #work {
     padding: 20px;
-    width: 70px;
+    width: 12%;
     font-size: 30px;
     color:rgba(8, 27, 70);
     text-align: center;
@@ -114,4 +114,20 @@ p {
     align-self: flex-end;
     height: auto;
     border: 2px solid white;
+}
+
+footer {
+    margin-top: 20px;
+    background-color: rgb(177, 177, 177);
+    display: flex;
+    align-items: center;
+}
+
+#contact {
+    padding: 20px;
+    width: 12%;
+    font-size: 30px;
+    color:rgba(8, 27, 70);
+    text-align: center;
+    float: left;
 }
