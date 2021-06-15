@@ -1,0 +1,106 @@
+body {
+    background-color: rgb(212, 212, 212);
+}
+
+#lead {
+    background-color: darkgoldenrod;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#intro {
+    font-size: 45px;
+    background-color:blue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    float: left;
+}
+
+.menu {
+    padding: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:cadetblue;
+    font-size: 28px;
+    float: right;
+}
+
+.banner {
+    background-color: royalblue;
+    font-size: 30px;
+}
+
+#welcome{
+    text-align: right;
+    width: 80%;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color:chartreuse;
+}
+
+.description {
+    margin-top: 20px;
+    background-color: rgb(212, 212, 212);
+    display: flex;
+    align-items: center;
+}
+
+#about {
+    padding: 20px;
+    width: 70px;
+    border-right: 3px solid green;
+    font-size: 30px;
+    color:rgb(177, 177, 177);
+    text-align: center;
+    float: left;
+}
+
+p {
+    color: gray;
+    padding: 10px;
+}
+
+.skills {
+    background-color: rgb(212, 212, 212);
+    align-items: center;
+    margin-top: 20px;
+}
+
+#work {
+    padding: 20px;
+    width: 70px;
+    border-right: 3px solid green;
+    font-size: 30px;
+    color:rgb(177, 177, 177);
+    text-align: center;
+    float: left;
+}
+
+.examples {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.project {
+    display: flex;
+    margin: 5px;
+    align-content: center;
+    border: 1px solid cyan;
+    padding: 10px 0px;
+}
+
+.card {
+    align-content: center;
+    position: relative;
+    align-self: flex-end;
+    height: auto;
+    border: 1px solid white;
+}
