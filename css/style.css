@@ -166,6 +166,15 @@ p {
         background-color: rgb(30, 148, 245);
         border: 0px solid rgba(8, 27, 70);
     }
+    #about {
+        font-size: 20px;
+    }
+    #work {
+        font-size: 20px;
+    }
+    #contact {
+        font-size: 20px;
+    }
   }
   
   /* Smartphones*/
