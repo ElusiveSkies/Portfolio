@@ -114,7 +114,7 @@ p {
     transition: all 0.5s ease-in-out;
 }
   
-  .project:hover {
+.project:hover {
     box-shadow: inset 0px 0px 8px rgb(3, 70, 124), 0 0 15px rgb(3, 70, 124);
   }
 
@@ -167,13 +167,22 @@ p {
         border: 0px solid rgba(8, 27, 70);
     }
     #about {
-        font-size: 20px;
+        font-size: 18px;
+        width: 16%;
     }
     #work {
-        font-size: 20px;
+        font-size: 18px;
+        width: 16%;
     }
     #contact {
-        font-size: 20px;
+        font-size: 18px;
+        width: 16%;
+    }
+    .examples {
+        padding: 5px;
+    }
+    .mail {
+        font-size: 18px;
     }
   }
   
