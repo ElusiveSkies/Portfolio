@@ -124,10 +124,6 @@ section {
     box-shadow: inset 0px 0px 8px rgb(3, 70, 124), 0 0 15px rgb(3, 70, 124);
   }
 
-.firstbox {
-    flex-basis: 375px;
-}
-
 #firstbox {
     flex-basis: 375px;
 }
