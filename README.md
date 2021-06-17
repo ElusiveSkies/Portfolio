@@ -21,3 +21,10 @@ Added CSS to distinguish areas.
   Made and added image for upcoming webpages
   Cropped and added picture of myself
   Added footer and formatting for it
+
+## Final Result
+# Desktop
+  ![image](https://user-images.githubusercontent.com/83562370/122326336-23a39100-cefa-11eb-8fcb-43dc106e2ff4.png)
+# Mobile
+  ![image](https://user-images.githubusercontent.com/83562370/122326470-58afe380-cefa-11eb-87ad-c9567ae7915e.png)
+
