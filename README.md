@@ -16,3 +16,8 @@ Added CSS to distinguish areas.
   Adding alterations for smaller screens
 
   Added hover over shadows
+
+ ## Added pictures and footer
+  Made and added image for upcoming webpages
+  Cropped and added picture of myself
+  Added footer and formatting for it
